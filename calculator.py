@@ -1,11 +1,11 @@
 def addition(a, b):
-    pass
+    return a+b
 
 def subtraction(a, b):
-    pass
+    return a-b
 
 def multiplication(a, b):
-    pass
+    return a*b
 
 def division(a, b):
     return a/b
