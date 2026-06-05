@@ -14,7 +14,7 @@ def power(a, b):
     return a**b
 
 def modulus(a, b):
-    pass
+    return a%b
 
 def floor_division(a, b):
     pass
